@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gemspec
 
+gem 'nokogiri'
 gem 'birch', git: 'https://github.com/louismullie/birch'
 gem 'schiphol'
 gem 'yomu'
